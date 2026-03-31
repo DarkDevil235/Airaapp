@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProject5/AiraApp/app/src/main/java/com/aira/app/KeyloggerService.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 415,
+          "line": 12
+        },
+        "start": {
+          "column": 1,
+          "index": 415,
+          "line": 12
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProject5/AiraApp/app/src/main/java/com/aira/app/KeyloggerService.kt"
+}
